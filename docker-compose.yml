@@ -2,7 +2,7 @@ version: "3.7"
 
 services:
   php-fpm:
-    container_name: php-serde
+    container_name: php
     build:
       dockerfile: ./.docker/Dockerfile
       context: .

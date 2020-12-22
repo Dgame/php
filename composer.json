@@ -1,9 +1,9 @@
 {
-    "name": "dgame/php-serde",
+    "name": "dgame/php",
     "type": "library",
     "description": "",
     "keywords": [],
-    "homepage": "https://github.com/Dgame/php-serde",
+    "homepage": "https://github.com/Dgame/php",
     "license": "MIT",
     "authors": [
         {
