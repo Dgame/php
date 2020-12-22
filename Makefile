@@ -25,5 +25,3 @@ dump-autoload:
 	docker-compose exec $(DOCKER_PHP_SERVICE) composer dump-autoload
 validate:
 	docker-compose exec $(DOCKER_PHP_SERVICE) composer validate
-index:
-	docker-compose exec $(DOCKER_PHP_SERVICE) php index.php
