@@ -6,7 +6,7 @@ env:
 	cp .env.dist .env
 new: kill
 	docker-compose up -d --build --remove-orphans
-	make install
+	make update
 up:
 	docker-compose up -d
 kill:
