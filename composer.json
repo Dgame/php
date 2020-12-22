@@ -33,7 +33,7 @@
     },
     "autoload": {
         "psr-4": {
-            "Dgame\\Serde\\": "src/"
+            "Dgame\\": "src/"
         }
     },
     "minimum-stability": "dev",
