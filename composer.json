@@ -20,7 +20,7 @@
         "phpmd/phpmd": "^2.8",
         "phpstan/phpstan": "^0.12",
         "phpunit/phpunit": "^9.4",
-        "psalm/phar": "^3.11",
+        "vimeo/psalm": "^4.3",
         "slevomat/coding-standard": "dev-master",
         "spaceemotion/php-coding-standard": "dev-master"
     },
